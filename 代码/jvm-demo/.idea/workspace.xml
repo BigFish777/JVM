@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e6ac228-c1da-43e6-8da6-f845b7d8ceb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xphu/heap/HeapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xphu/task/StackOverflowErrorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xphu/task/TaskDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xphu/task/TaskDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xphu/task/TaskDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../jvm学习笔记" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\MavenAndHouse\qsmm\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../MavenAndHouse/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\MavenAndHouse\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mCJQFGtT1MNkOL4HQlfJ1qd0pW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xphu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HeapDemo1">
+    <configuration name="HeapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xphu.heap.HeapDemo1" />
+      <module name="jvm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xphu.heap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverflowErrorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xphu.task.StackOverflowErrorDemo1" />
+      <module name="jvm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xphu.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xphu.task.TaskDemo" />
+      <module name="jvm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xphu.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xphu.task.TaskDemo2" />
+      <module name="jvm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xphu.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xphu.task.TaskDemo3" />
+      <module name="jvm-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xphu.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TaskDemo" />
+      <item itemvalue="Application.TaskDemo2" />
+      <item itemvalue="Application.StackOverflowErrorDemo1" />
+      <item itemvalue="Application.TaskDemo3" />
+      <item itemvalue="Application.HeapDemo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HeapDemo1" />
+        <item itemvalue="Application.TaskDemo3" />
+        <item itemvalue="Application.StackOverflowErrorDemo1" />
+        <item itemvalue="Application.TaskDemo2" />
+        <item itemvalue="Application.TaskDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e6ac228-c1da-43e6-8da6-f845b7d8ceb5" name="Default Changelist" comment="" />
+      <created>1608991621393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608991621393</updated>
+      <workItem from="1608991625144" duration="7687000" />
+      <workItem from="1609054522795" duration="3082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="90" key="#Inspections" timestamp="1608996100560">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1608996100560" />
+    <state x="498" y="0" key="#Project_Structure" timestamp="1608993711705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1608993711705" />
+    <state x="447" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608994705052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608994705052" />
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1608995215396">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608995215396" />
+    <state x="777" y="96" key="FileChooserDialogImpl" timestamp="1609054894098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="777" y="96" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609054894098" />
+    <state width="1098" height="361" key="GridCell.Tab.0.bottom" timestamp="1609058431543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1098" height="361" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609058431543" />
+    <state width="1098" height="361" key="GridCell.Tab.0.center" timestamp="1609058431543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1098" height="361" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609058431543" />
+    <state width="1098" height="361" key="GridCell.Tab.0.left" timestamp="1609058431542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1098" height="361" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609058431542" />
+    <state width="1098" height="361" key="GridCell.Tab.0.right" timestamp="1609058431543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1098" height="361" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609058431543" />
+    <state width="723" height="153" key="GridCell.Tab.1.bottom" timestamp="1609054405951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="153" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609054405951" />
+    <state width="723" height="153" key="GridCell.Tab.1.center" timestamp="1609054405951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="153" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1609054405951" />
+    <state width="723" height="153" key="GridCell.Tab.1.left" timestamp="1609054405951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="153" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1609054405951" />
+    <state width="723" height="153" key="GridCell.Tab.1.right" timestamp="1609054405951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="153" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1609054405951" />
+    <state x="598" y="70" key="Maven.ArtifactSearchDialog" timestamp="1608996110756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="598" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1608996110756" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1609054906709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609054906709" />
+  </component>
+</project>
